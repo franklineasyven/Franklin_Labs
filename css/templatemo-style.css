@@ -247,7 +247,7 @@ p, address {
   bottom: 0;
   left: 0;
   width: 100%;
-  color: white;
+  color: red;
   z-index: 1000;
 }
 
@@ -307,7 +307,7 @@ p, address {
 }
 
 .tm-nav-link {
-  color: white;
+  color: red;
   text-decoration: none;
   padding-bottom: 10px;
 }
